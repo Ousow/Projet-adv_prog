@@ -40,12 +40,13 @@ Clone the repository and install dependencies:
 git clone https://github.com/your-username/your-project.git
 cd your-project
 pip install -r requirements.txt
+```
 
 ### Running the Application
 Run the main script to launch the application:
 ```bash
 python main.py
-
+```
 
 ### Using the Application
 - Enter the title of a recipe in the search field.
