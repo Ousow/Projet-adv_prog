@@ -52,6 +52,21 @@ python main.py
 - Click the "Search" button to find matches.
 - View the results, including prices and product details for each ingredient.
 
+### Preview of Recipe and Product Matching Results
+This section showcases the output of the recipe-to-product matching system. The tool takes a recipe title as input, extracts its ingredients, and identifies the best-matched products from Auchan and Carrefour databases. Below is an example of the results, demonstrating how the system pairs ingredients with corresponding products, prices, and packaging units from both retailers.
+
+
+
+
+
+
+
+
+
+
+
+This example helps to illustrate how the system operates and the level of detail provided for each ingredient-to-product match.
+
 
 ### Current Issues and Future Improvements
 
