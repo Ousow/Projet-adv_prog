@@ -16,7 +16,6 @@ The application is built on a user-friendly interface and leverages natural lang
 
 ### 2. Data Processing
 - **Text Cleaning and Normalization**: Removed accents, special characters, and applied lowercase transformation to standardize the data.
-- **Filtering**: Excluded non-edible products, such as household cleaners and cosmetics, to focus on food-related items.
 - **Enhancements**: Added product details such as quantities and discounts to enrich the dataset.
 
 ### 3. Model and Matching
