@@ -56,13 +56,7 @@ python main.py
 This section showcases the output of the recipe-to-product matching system. The tool takes a recipe title as input, extracts its ingredients, and identifies the best-matched products from Auchan and Carrefour databases. Below is an example of the results, demonstrating how the system pairs ingredients with corresponding products, prices, and packaging units from both retailers.
 
 
-
-
-
-
-
-
-
+![Aperçu des résultats](https://github.com/Ousow/Projet-adv_prog/blob/main/Capture%20d'%C3%A9cran%202025-01-13%20105831.png)
 
 
 This example helps to illustrate how the system operates and the level of detail provided for each ingredient-to-product match.
